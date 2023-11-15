@@ -1,4 +1,4 @@
-# Australia-Electrical-load-prediction-
+# Hybrid Online Model Based Multi Seasonal Decompose for Short-term Electricity Load Forecasting Using ARIMA and Online RNN-
 Australian load dataset. 
 
 This data is taken every 01:01 every day, from May 21, 2019 to June 30, 2020.
